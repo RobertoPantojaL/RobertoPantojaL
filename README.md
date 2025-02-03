@@ -5,7 +5,7 @@
 - 👀 Estoy interesado en el desarrollo web, la inteligencia artificial y la ciencia de datos.
 - 🌱 Actualmente estoy aprendiendo React y profundizando en Node.js.
 - 💞️ Busco colaborar en proyectos de código abierto relacionados con tecnologías web.
-- 📫 Puedes contactarme a través de [mi correo electrónico](mailto:roberto.pantoja@nexwey.online) o [LinkedIn](www.linkedin.com/in/tadeo-roberto-pantoja-lópez-306518345).
+- 📫 Puedes contactarme a través de [mi correo electrónico](mailto:roberto.pantoja@nexwey.online) o [LinkedIn](https://www.linkedin.com/in/tadeo-roberto-pantoja-lópez-306518345).
 - 😄 Pronombres: Él/él (He/him)
 - ⚡ Dato curioso: ¡Puedo resolver el cubo de Rubik en menos de 2 minutos!
 
